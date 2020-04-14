@@ -1,0 +1,1 @@
+This folder is my contribution folder to the COVID-19 capstone project
